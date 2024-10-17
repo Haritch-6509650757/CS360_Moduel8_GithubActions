@@ -1,4 +1,4 @@
-const {add, subtract, multiply} = require('/home/ec2-user/module8/src/math.js');
+const {add, subtract, multiply} = require('../math.js');
 
 describe('Simple math test', () => {
   it('addition should return 4', async () => {
